@@ -1,1 +1,0 @@
-copy CMTrace.exe c:\windows\system32

@@ -1,1 +1,0 @@
-del c:\windows\system32\CMTrace.exe
